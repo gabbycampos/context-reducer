@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/context-reducer/static/css/main.d7aeeda9.chunk.css",
+    "main.js": "/context-reducer/static/js/main.1b6ff831.chunk.js",
+    "main.js.map": "/context-reducer/static/js/main.1b6ff831.chunk.js.map",
+    "runtime-main.js": "/context-reducer/static/js/runtime-main.217373d0.js",
+    "runtime-main.js.map": "/context-reducer/static/js/runtime-main.217373d0.js.map",
+    "static/js/2.c3dd0e8b.chunk.js": "/context-reducer/static/js/2.c3dd0e8b.chunk.js",
+    "static/js/2.c3dd0e8b.chunk.js.map": "/context-reducer/static/js/2.c3dd0e8b.chunk.js.map",
+    "index.html": "/context-reducer/index.html",
+    "precache-manifest.152a1cf75ab16850e193b7869d1e5690.js": "/context-reducer/precache-manifest.152a1cf75ab16850e193b7869d1e5690.js",
+    "service-worker.js": "/context-reducer/service-worker.js",
+    "static/css/main.d7aeeda9.chunk.css.map": "/context-reducer/static/css/main.d7aeeda9.chunk.css.map",
+    "static/js/2.c3dd0e8b.chunk.js.LICENSE.txt": "/context-reducer/static/js/2.c3dd0e8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.217373d0.js",
+    "static/js/2.c3dd0e8b.chunk.js",
+    "static/css/main.d7aeeda9.chunk.css",
+    "static/js/main.1b6ff831.chunk.js"
+  ]
+}
