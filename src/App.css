@@ -1,0 +1,135 @@
+#root {
+  background: linear-gradient(19deg, #FAACA8, #DDD6F3);
+  height: 100vh;
+  font-family: 'Varela Round', sans-serif;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  color: rgb(92, 137, 233)
+}
+.form-bg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: white;
+  padding: 15px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.1);
+}
+.form-bg h1 {
+  color:rgb(92, 137, 233);
+}
+input {
+  padding: 5px;
+  border: none;
+  border-bottom: 1px solid #CCC;
+}
+.button-form {
+  border: solid 1px rgb(92, 137, 233);
+  border-radius: 3px;
+}
+.tasks {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.tasks ul {
+  list-style-type: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+.nothing {
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding: 10px;
+  font-size: 45px;
+}
+.details {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.1);
+  padding: 10px;
+  margin: 5px;
+  border: 3px solid lightgray;
+}
+.details:hover {
+  text-decoration: line-through;
+  color: gray;
+}
+
+
+.members-form-bg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.1);
+}
+.members-form-bg h1 {
+  color:rgb(92, 137, 233);
+}
+.button-member {
+  border: solid 1px rgb(92, 137, 233);
+  border-radius: 3px;
+}
+.members {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+.members ul {
+  list-style-type: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+.m-details {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.1);
+  padding: 5px;
+  border: 3px solid lightgray;
+  text-align: center;
+}
+.m-details:hover {
+  text-decoration: line-through;
+  color: gray;
+}
+@media only screen and (max-width: 850px) {
+.members-form-bg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.1);
+}
+
+.members {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+}
